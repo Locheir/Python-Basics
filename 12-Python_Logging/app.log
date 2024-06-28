@@ -1,0 +1,6 @@
+2024-06-28 11:38:50-root-DEBUG-This is a debug message
+2024-06-28 11:38:50-root-INFO-This is an info message
+2024-06-28 11:38:50-root-WARNING-This is an warning message
+2024-06-28 11:38:50-root-ERROR-This is an error message
+2024-06-28 11:38:50-root-CRITICAL-This is a critical message
+2024-06-28 11:40:37-root-DEBUG-Add to log file
